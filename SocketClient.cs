@@ -9,6 +9,7 @@ namespace TestSocket
 	{
 		public SocketClient ()
 		{
+			//modify 4 git test
 			Console.WriteLine ("client begin connect server");
 			IPAddress ip = IPAddress.Parse ("192.168.1.107");
 			IPEndPoint ipe = new IPEndPoint (ip,8888);
