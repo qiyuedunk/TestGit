@@ -8,5 +8,5 @@ end
 
 
 function sayHelloTest()
-  print("a new sayHelloTest")
+  print("a new sayHelloTest main mod")
 end
