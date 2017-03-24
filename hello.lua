@@ -13,5 +13,5 @@ end
 
 
 function aa()
-
+print("123456")
 end
