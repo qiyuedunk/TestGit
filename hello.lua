@@ -17,4 +17,5 @@ print("11")
   print("sss ")
   print("dddd")
     print("saaa")
+  print("123")
 end
