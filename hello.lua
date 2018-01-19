@@ -14,8 +14,4 @@ end
 
 function aa()
   print("123")
-print("123456")
-  print("what ")
-  print("dddd")
-    print("saaa")
 end
