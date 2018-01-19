@@ -13,8 +13,8 @@ end
 
 
 function aa()
-print("123456")
-  print("what ")
+print("11")
+  print("sss ")
   print("dddd")
     print("saaa")
 end
