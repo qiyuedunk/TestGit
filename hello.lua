@@ -14,4 +14,5 @@ end
 
 function aa()
 print("22")
+print("11")
 end
