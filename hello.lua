@@ -14,4 +14,5 @@ end
 
 function aa()
 print("master")
+print("add")
 end
