@@ -1,5 +1,5 @@
 function hello()
-  print("hello")
+  print("change on aaa")
 end
 
 function sayHello()
