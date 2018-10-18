@@ -1,5 +1,5 @@
 function hello()
-  print("11`mod on master")
+  print("12`mod on master")
 end
 
 function sayHello()
