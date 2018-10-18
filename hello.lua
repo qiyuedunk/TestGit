@@ -1,5 +1,6 @@
 function hello()
   print("aaa change  master")
+print("add 1")
 end
 
 function sayHello()
