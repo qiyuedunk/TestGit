@@ -1,5 +1,7 @@
 function hello()
   print("aaa change  master")
+print("333")
+rint("444")
 print("master111")
 end
 
