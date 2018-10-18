@@ -2,6 +2,7 @@ function hello()
   print("aaa change  master")
 print("add 1")
 print("add 2")
+print("add 3")
 end
 
 function sayHello()
