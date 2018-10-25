@@ -4,7 +4,7 @@ print("rebase change on v102")
 end
 
 function sayHello()
-  print("a new function")
+  print("rebase change on master 2")
 end
 
 
