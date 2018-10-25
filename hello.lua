@@ -1,6 +1,4 @@
 function hello()
-print("rebase change on master")
-print("rebase change on v102")
 print("rebase change on v102 2")
 print("rebase change on v102 3")
 end
