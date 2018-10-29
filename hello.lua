@@ -1,18 +1,3 @@
 function hello()
-	print("change on master")
-end
-
-function sayHello()
-  print("a new function")
-end
-
-
-function sayHelloTest()
-  print("this is local b")
-end
-
-
-function aa()
-print("master")
-print("add")
+print("hello world")
 end
