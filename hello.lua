@@ -4,6 +4,7 @@ function hello()
  	print("====change 3====")
  	print("====change 4====")
  	print("====change 5====")
+ 	print("====change 6====")
 end
 
 function feature()
