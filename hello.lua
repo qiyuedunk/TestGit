@@ -6,5 +6,6 @@ end
 
 function feature()
 	print("=====feature 1=====")
+	print("=====feature 2=====")
 end
 
