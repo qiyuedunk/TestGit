@@ -17,5 +17,6 @@ function feature()
 	print("=====feature 3=====")
 	print("=====feature 6=====")
 	print("=====feature 7=====")	
+	print("=====feature 8=====")
 end
 
