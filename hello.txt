@@ -1,4 +1,0 @@
-This is first line in hello.txt
-I add some content.
-add by feature
-add by feature
