@@ -2,3 +2,4 @@ c1 master add 1
 c3 master add 3
    master add 4
    master add 5
+c2 feature add 2
