@@ -1,1 +1,2 @@
 This is first line in hello.txt
+I add some content.
