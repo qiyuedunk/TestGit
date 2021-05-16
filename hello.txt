@@ -1,4 +1,3 @@
-sdfs1 master add 1
 saa:s1 master add 1
 sssss:1 master add 1
 c3 master add 3
